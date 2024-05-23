@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "emmataraburke.github.io"
+website:"Where's Emma"
+  title:"Where's Emma"
   navbar:
     left:
       - href: index.qmd
