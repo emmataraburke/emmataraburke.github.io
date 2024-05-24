@@ -8,13 +8,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Me
+      - href: travelpics.qmd
+        text: My Travels
 
 format:
   html:
-    theme: cosmo
+    theme: sketchy
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

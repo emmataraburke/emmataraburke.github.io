@@ -2,8 +2,18 @@
 title: "About"
 ---
 
-About this site
+This is not a professional website. It is not for me to look professional. Yes I put my LinkedIn on it but that was just for fun. I am here to tell the story of "Wheres Emma?"
 
-```{r}
-1 + 1
-```
+When I was born, my older sister used to come home from preschool and ask "Wheres Emma?!" as soon as she got home. It became a running joke in my family.
+
+When I was seven years old my family decided it would be a good time to take me and my sister on a five week trip to Thailand with our Grandmother who grew up there. While I wish I was a little older to remember everything, this trip really stuck with me. I think the vastly different climate and culture made a lasting impression. It was the most incredible journey I had experienced.
+
+As I got older and gained independence, I started traveling with friends. When I was 13 I went to England with my two best friends and we exercised our independence and autonomy, navigating trains and buses to explore the country (and staying with my friend Daisy's grandparents of course.) Later on I signed up for a youth educational trip to take me back to Thailand and Vietnam, where I met my distant relatives on my Grandmother's side. There I studied access to education in rural settings.
+
+Two years later I did another trip to the Dominican Republic to study public health. This was the first country I went to where I could practice speaking Spanish.
+
+My Spanish skills were cemented when I studied abroad in Chile for three months. It was a wonderful educational experience and the most academically engaged I have ever been. After studying abroad I decided to go on a long trip through Uruguay and Brazil with my friends. We already had experience traveling together in Mexico, so we were ready for another big adventure.
+
+Since being in College, I have been to Mexico, Hawaii, Uruguay, Brazil, and Puerto Rico with a variety of friends. I have learned a lot from traveling with friends. I have gotten to see them pushed to their limits and tested in new settings with new challenges. Sometimes friendships faltered after long exhaustive travel, other times they were strengthened. In any case, I am confident enough in my travel experiences and my language abilities that I am ready to travel alone.
+
+I am ready for solitude. I am ready for adventure. Where will I go next?

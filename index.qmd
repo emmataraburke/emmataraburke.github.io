@@ -1,11 +1,17 @@
 ---
-title: "emmataraburke.github.io"
+title: "Where's Emma?"
+image: pics/about.jpg
+toc: false
+about: 
+  template: marquee
+  image-shape: rectangle
+  links:
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/emma-burke-ucsb/
+  - text: Instagram
+    href: https://www.instagram.com/emma8b/
+  - text: Email
+    href: mailto:emma.burke@mac.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hey! Welcome to my travel blog. Here you can find out a little bit about me and see the highlights of my many travels.
