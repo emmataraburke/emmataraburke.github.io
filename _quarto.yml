@@ -9,9 +9,17 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About Me
-      - href: travelpics.qmd
-        text: My Travels
+        text: Backstory
+      - href: famtrips.qmd
+        text: Family Trips
+      - href: solo.qmd
+        text: Solo Trips
+      - href: friendtrips.qmd
+        text: Friend Ventures
+      - href: chile.qmd
+        text: Study Abroad
+    
+    
 
 format:
   html:
