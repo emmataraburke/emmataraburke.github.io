@@ -1,5 +1,3 @@
-```{r}
 ---
-title: Study Abroad
+  title: Study Abroad
 ---
-```
