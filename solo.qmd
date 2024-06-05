@@ -1,5 +1,11 @@
-```{r}
 ---
-title: Solo Journeys
+  title: Solo Journeys
 ---
-```
+
+Here I am going to document my not-so-solo travels that were sponsored by Rustic Pathways. I did get a scholarship for my first trip tho.
+
+VIETNAM + THAILAND
+
+![](pics/IMG_5061.JPG){width="4in"}
+
+![](pics/IMG_5201.JPG){width="5in"}

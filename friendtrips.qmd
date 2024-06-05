@@ -1,5 +1,21 @@
-```{r}
 ---
-title: Friend-Ventures
+  title: Friend-Ventures
 ---
-```
+
+MEXICO AGAIN
+
+![](pics/07560217-5ADE-4878-B5CF-5EBD186BF85C.JPG){width="3in"}
+
+BRAZIL
+
+![](pics/IMG_0061.HEIC){width="4in"}
+
+![](pics/IMG_0469.HEIC){width="4in"}
+
+![](pics/IMG_4913.jpeg){width="4in"}
+
+PUERTO RICO
+
+![](pics/IMG_5987.jpeg){width="3in"}
+
+![](pics/IMG_5974.jpeg){width="3in"}
