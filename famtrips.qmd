@@ -2,29 +2,39 @@
   title: Family Trips
 ---
 
+------------------------------------------------------------------------
+
 SPAIN
 
-![](pics/IMG_1990%203.JPG){width="10cm"}
-
-![](pics/IMG_2101.JPG){width="3in"}
+![](pics/IMG_1990%203.JPG){width="4in"}
 
 My Sister, Jane, and I were actually quite bored with European Tourism and decided to do shenanigans instead of taking photos of the scenery. Shenanigans can be seen as follows:
 
-![](pics/IMG_4957.JPG){width="3in"}
-
-![](pics/IMG_5063.JPG){width="3in"}
-
+::: {#shenan .row}
+::: {#bap .column3}
 ![](pics/IMG_5069.JPG){width="3in"}
+:::
 
-![](pics/IMG_5070.JPG){width="3in"}
-
+::: {#bup .column3}
 ![](pics/IMG_5082.JPG){width="3in"}
+:::
 
+::: {#baap .column3}
+![](pics/IMG_5070.JPG){width="3in"}
+:::
+
+::: {#buup .column3}
 ![](pics/IMG_2223.JPG){width="3in"}
+:::
 
+::: {#baup .column3}
 ![](pics/IMG_2222.JPG){width="3in"}
+:::
 
+::: {#breep .column3}
 ![](pics/IMG_2221.JPG){width="3in"}
+:::
+:::
 
 REDACTED: We went to Europe (not Spain) when I was thirteen years old. Same takeaway as Spain as a sixteen year old: its just... not that interesting. The most memorable takeaway of the trip was shenanigans with Jane, sitting for hours in the car going deliriously silly from boredom. Therefore I will not be sharing any photos from that trip because I didn't care for it.\]
 
@@ -36,18 +46,28 @@ MEXICO! 2015
 
 View from inside the cenote in Quintana Roo
 
+::: {#mex15 .row}
+::: {#1 .column2}
 ![](pics/IMG_0605.JPG){width="4in" height="5in"}
+:::
 
-My cousin Fabrice in the cenote
+::: {#2 .column2}
+![](pics/IMG_0539.JPG){width="3in"}
+:::
+:::
+
+My cousin Fabrice in the cenote, Selfie of the cousins: (left to right) Emma, Jane, Molly, and Sam
+
+::: {#swim .row}
+::: column2
 
 ![](pics/IMG_0566.JPG){width="4in" height="5in"}
+:::
 
-Jane swimming, shot on iphone 6 with my first water proof phone case.
+::: column2
 
 ![](pics/IMG_0557.JPG){width="3in"}
+:::
+:::
 
-My dad swimming
-
-![](pics/IMG_0539.JPG){width="3in"}
-
-Selfie of the cousins: (left to right) Emma, Jane, Molly, and Sam
+Jane swimming, shot on iphone 6 with my first water proof phone case, My dad swimming, shot on the same iphone

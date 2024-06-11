@@ -4,28 +4,38 @@ title: "Study Abroad"
 
 In the fall of 2023, I studied abroad in Chile. The program was titled "Socio-Ecological Sustainability" and our classes focused on conservation strategies and ethics, and the intersection of culture and environment. Attending this program was such a privilege, especially because we were able to go on so many field trips out in nature, conduct our own research, and meet and talk with Indigenous Mapuche people. Below I will attach some of my work that I completed while I was abroad:
 
-[Opinion Editorial on Social Perceptions of Conservation Approaches](https://docs.google.com/document/d/1aGPzldXcae44sTkKnw7WE2fB722U7b740y6ef_aSsVI/edit?usp=sharing)
+[**Opinion Editorial on Social Perceptions of Conservation Approaches**](https://docs.google.com/document/d/1aGPzldXcae44sTkKnw7WE2fB722U7b740y6ef_aSsVI/edit?usp=sharing)
 
-[Paper on Forest Conservation Strategy](https://docs.google.com/document/d/1OPqJLL1uPFAPSVVjKuZLHXyf2bxjJYuiwSb2aMx5y4E/edit?usp=sharing)
+[**Paper on Forest Conservation Strategy**](https://docs.google.com/document/d/1OPqJLL1uPFAPSVVjKuZLHXyf2bxjJYuiwSb2aMx5y4E/edit?usp=sharing)
 
-[Ethnographic Report of Villarrica - Relationships to Medicinal Plants](https://docs.google.com/document/d/1EDiDpCC0uDbglzzoM2_S99DqxnoNIDJwoiipCSh_06M/edit?usp=sharing)
+[**Ethnographic Report of Villarrica - Relationships to Medicinal Plants**](https://docs.google.com/document/d/1EDiDpCC0uDbglzzoM2_S99DqxnoNIDJwoiipCSh_06M/edit?usp=sharing)
 
 One of the most special things we did on our program was conduct our own research project in groups. My group chose to study community gardens. We had the opportunity to interview 5 Mapuche women who owned and tended their own land and gardens in the region. This is our final report:
 
-[Sustaining the Work: Community Gardens in the Tolten River Basin](https://drive.google.com/file/d/1VZry_oaJO8bK_yah_q4tvk2ifoby8M5U/view?usp=sharing)
+[**Sustaining the Work: Community Gardens in the Tolten River Basin**](https://drive.google.com/file/d/1VZry_oaJO8bK_yah_q4tvk2ifoby8M5U/view?usp=sharing)
 
+::: {#chile .row}
+::: {#shovel .column2}
 ![](pics/DSC02760.JPG){width="3in"}
 
+Me and Sally helping mix a soil amendment product via a japanese process called "Bokashi" The Mapuche women who own the farm learned Bokashi in a garden education workshop in the region.
+:::
+
+::: {#notes .column2}
 ![](pics/DSC02746.JPG){width="3in"}
 
-(Left) Me and Sally helping mix a soil amendment product via a japanese process called "Bokashi" The Mapuche women who own the farm learned Bokashi in a garden education workshop in the region.
+Eliza taking notes on the Bokashi process. Allison, one of the sisters who owns the farm, preparing an ingredient for the Bokashi.
+:::
+:::
 
-(Right) Eliza taking notes on the Bokashi process. Allison, one of the sisters who owns the farm, preparing an ingredient for the Bokashi.
-
+::: {#more .row}
+::: {#hands .column2}
 ![](pics/DSC02813.JPG){width="4.5in"}
+:::
 
-Allison's hands
-
+::: {#elizabeth .column2}
 ![](pics/DSC02826.JPG){width="6.5in"}
+:::
+:::
 
-Elizabeth, the other sister, hosting us with a homemade meal after making the Bokashi pile.
+Allisons hands and Elizabeth, the other sister, hosting us with a homemade meal after making the Bokashi pile.

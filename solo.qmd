@@ -10,13 +10,18 @@ VIETNAM + THAILAND
 
 Me and Sikkiim at Ho Chi Minh's mausoleum.
 
+::: {#vietnam .row}
+::: {#2 .column2}
+![](pics/IMG_4851.JPG){width="5in"}
+:::
+
+::: column2
+
 ![](pics/IMG_5201.JPG){width="5in"}
+:::
+:::
 
-Me and all my Vietnam trip friends on our last day together.
-
-![](pics/IMG_4851.JPG){width="4in"}
-
-Before joining my friends on the Rustic Pathways trip, I met my Aunt and her family for the first time. Despite the language barrier we had a lot of fun exploring Hanoi and surrounding rural areas of Vietnam.
+Before joining my friends on the Rustic Pathways trip, I met my Aunt and her family for the first time. Despite the language barrier we had a lot of fun exploring Hanoi and surrounding rural areas of Vietnam. The second photo is of the group I traveled with in Vietnam.
 
 DOMINICAN REPUBLIC
 
